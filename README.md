@@ -6,4 +6,5 @@ Just a bit of fun really. Please add your name below and I'll hopefully meet you
 | Name            | Twitter Handle    |
 |-----------------|-------------------|
 | Owain Williams  | @ScottishCoder    |
+| Callum Whyte    | @callumbwhyte     |
 |                 |                   |
