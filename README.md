@@ -13,3 +13,4 @@ Just a bit of fun really. Please add your name below and I'll hopefully meet you
 | Chriztian Steinmeier         | @greystate        |
 | Dave Woestenborghs           | @dawoe21          |
 | Nathan Woulfe                | @nathanwoulfe     |
+| Dan Patching                 | @OptimisticCoder  |
