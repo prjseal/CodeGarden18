@@ -14,3 +14,7 @@ Just a bit of fun really. Please add your name below and I'll hopefully meet you
 | Dave Woestenborghs           | @dawoe21          |
 | Nathan Woulfe                | @nathanwoulfe     |
 | Paul Seal                    | @CodeSharePaul    |
+| Matthew Wise                 | @waltza86         |
+| Dan Patching                 | @OptimisticCoder  |
+| Niels Hartvig                | @thechiefunicorn  |
+
