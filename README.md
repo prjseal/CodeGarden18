@@ -6,15 +6,15 @@ Just a bit of fun really. Please add your name below and I'll hopefully meet you
 
 | Name                         | Twitter Handle    |
 |------------------------------|-------------------|
-| Owain Williams               | @ScottishCoder    |
-| Callum Whyte                 | @callumbwhyte     |
-| Warren Buckley               | @warrenbuckley    |
-| Arnold Visser                | @aim24            |
-| Chriztian Steinmeier         | @greystate        |
-| Dave Woestenborghs           | @dawoe21          |
-| Nathan Woulfe                | @nathanwoulfe     |
-| Paul Seal                    | @CodeSharePaul    |
-| Matthew Wise                 | @waltza86         |
-| Dan Patching                 | @OptimisticCoder  |
-| Niels Hartvig                | @thechiefunicorn  |
+| Owain Williams               | [@ScottishCoder](https://twitter.com/ScottishCoder)    |
+| Callum Whyte                 | [@callumbwhyte](https://twitter.com/callumbwhyte)     |
+| Warren Buckley               | [@warrenbuckley](https://twitter.com/warrenbuckley)    |
+| Arnold Visser                | [@aim24](https://twitter.com/aim24)            |
+| Chriztian Steinmeier         | [@greystate](https://twitter.com/greystate)        |
+| Dave Woestenborghs           | [@dawoe21](https://twitter.com/dawoe21)          |
+| Nathan Woulfe                | [@nathanwoulfe](https://twitter.com/nathanwoulfe)     |
+| Paul Seal                    | [@CodeSharePaul](https://twitter.com/CodeSharePaul)    |
+| Matthew Wise                 | [@waltza86](https://twitter.com/waltza86)         |
+| Dan Patching                 | [@OptimisticCoder](https://twitter.com/OptimisticCoder)  |
+| Niels Hartvig                | [@thechiefunicorn](https://twitter.com/thechiefunicorn)  |
 
